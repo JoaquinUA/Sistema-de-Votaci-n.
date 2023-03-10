@@ -1,4 +1,4 @@
-# Sistema-de-Votaci-n.
+# Sistema-de-Votacion.
 Prueba de diagnostico ,reclutamiento Desis
 MYSQL version : 8.0.31
 PHP version: 8.0.26
