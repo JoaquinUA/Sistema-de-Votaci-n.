@@ -11,4 +11,4 @@ Para instalar este proyecto Ud. debe :
 3. con la carpeta "BD" descargada , cree una base de datos utilizando los archivos .sql dispuestos. Esto se puede realizaqr importando la carpeta BD dentro de un entorno como MYSQL WorkBench o PHPMYADMIN,etc.
 4. Con la carpeta "Sistema de votacion " descargada Ud. debe de colocarla en la carpeta asociada a su servidor , en mi caso el "localhost" o "wwwdirectory" de WAMP
 5. Dentro de la misma carpeta "Sistema de votacion" dirijase al archivo model.php y cambiar los valores de las propiedades en las lineas 5,6 y 7 para que coincidan con su servidor, nombre de usuario y contraseña de base de datos
-6. por último , dentro de su navegador ingrese a la carpeta donde colocó la carpeta del proyecto, si su servidor usa el localhost se vería algo tal que así "localhost/trainee/index"
+6. por último , dentro de su navegador ingrese a la carpeta donde colocó la carpeta del proyecto, si su servidor usa el localhost se vería algo tal que así "localhost//Sistema%20de%20votacion/"
